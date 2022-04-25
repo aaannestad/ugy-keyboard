@@ -15,8 +15,8 @@ The name Úgy has the same rationale as 'QWERTY'; typing the first four keys on 
 
 The layout gives access to a wide variety of non-base Latin letters by means of the alt key and/or dead keys:
 
-alt: uc?/ oa.rs- ;vz > µ©¿× œæ.®ß¥ ¶vȝ
-alt+shift: C+ OA,TS :Z > ¢÷ ŒÆ,Þ§ °Ȝ
+* alt: uc?/ oa.rs- ;vz > µ©¿× œæ.®ß¥ ¶vȝ
+* alt+shift: C+ OA,TS :Z > ¢÷ ŒÆ,Þ§ °Ȝ
 
 (note that alt+t _should_ produce lower-case Þ; this is a known bug)
 
