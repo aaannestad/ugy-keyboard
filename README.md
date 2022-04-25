@@ -22,19 +22,19 @@ alt+shift: C+ OA,TS :Z > ¢÷ ŒÆ,Þ§ °Ȝ
 
 The dead keys are:
 
-` > àèìòùẁ
-~ > ãẽĩñõũṽ
-^ > âĉêĝĥîĵôŝûŵŷẑ
-| > āđēḡħīōŧūȳ
-' > áćéíḱĺḿńóṕŕśúẃýź
-" > äëḧïöüẅẍÿ
-/ > ðłø
-µ (alt+u) > ăĕğĭŏŭ
-œ (alt+o) > åḃċḋḟġḣıŀṁṅṗṙṡṫůẇẏż
-alt+. > ḁḅḍgḥḳḷṃṇṛṣṭṿẉẓ
-alt+, > ḁçęģįķļņŗşţų
-alt+v > ǎčěȟǐňǒřšǔ
+* ` > àèìòùẁ
+* ~ > ãẽĩñõũṽ
+* ^ > âĉêĝĥîĵôŝûŵŷẑ
+* | > āđēḡħīōŧūȳ
+* ' > áćéíḱĺḿńóṕŕśúẃýź
+* " > äëḧïöüẅẍÿ
+* / > ðłø
+* µ (alt+u) > ăĕğĭŏŭ
+* œ (alt+o) > åḃċḋḟġḣıŀṁṅṗṙṡṫůẇẏż
+* alt+. > ḁḅḍgḥḳḷṃṇṛṣṭṿẉẓ
+* alt+, > ḁçęģįķļņŗşţų
+* alt+v > ǎčěȟǐňǒřšǔ
 
-Note that all of the above should work with capital versions as well.
+All of the above should work with capital versions as well.
 
 Note that one downside of this dead key setup is the need to type a space whenever you type the English possesive clitic _='s_, as just typing <'s> directly outputs <ś>; the use of </> as a dead key also makes some coding more difficult. In a future revision I may move </> and some <'> dead keys to alt+/ and alt+', respectively.
