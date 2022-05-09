@@ -1,0 +1,57 @@
+default partial alphanumeric_keys modifier_keys
+xkb_symbols "ugy" {
+
+    name[Group1]= "English (Úgy ergonomic)";
+    
+    key <TLDE> {	[     grave,	asciitilde	]	};
+    key <AE01> {	[	  1,	exclam 		]	};
+    key <AE02> {	[	  2,	at		]	};
+    key <AE03> {	[	  3,	numbersign	]	};
+    key <AE04> {	[	  4,	dollar		]	};
+    key <AE05> {	[	  5,	percent		]	};
+    key <AE06> {	[	  6,	asciicircum	]	};
+    key <AE07> {	[	  7,	ampersand	]	};
+    key <AE08> {	[	  8,	asterisk	]	};
+    key <AE09> {	[	  9,	parenleft	]	};
+    key <AE10> {	[	  0,	parenright	]	};
+    key <AE11> {	[     minus,	underscore	]	};
+    key <AE12> {	[     equal,	plus		]	};
+
+    key <AD01> {	[ backslash,	bar 		]	};
+    key <AD02> {	[ apostrophe,	quotedbl	]	};
+    key <AD03> {	[	  u,	U		]	};
+    key <AD04> {	[	  g,	G		]	};
+    key <AD05> {	[	  y,	Y		]	};
+    key <AD06> {	[	  f,	F		]	};
+    key <AD07> {	[	  c,	C		]	};
+    key <AD08> {	[	  d,	D		]	};
+    key <AD09> {	[	  h,	H		]	};
+    key <AD10> {	[	  p,	P		]	};
+    key <AD11> {	[  question,	equal		]	};
+    key <AD12> {	[     slash,	plus		]	};
+
+    key <AC01> {	[	  o,	O 		]	};
+    key <AC02> {	[	  a,	A		]	};
+    key <AC03> {	[	  e,	E		]	};
+    key <AC04> {	[	  i,	I		]	};
+    key <AC05> {	[    period,	comma		]	};
+    key <AC06> {	[	  l,	L		]	};
+    key <AC07> {	[	  r,	R		]	};
+    key <AC08> {	[	  t,	T		]	};
+    key <AC09> {	[	  n,	N		]	};
+    key <AC10> {	[ 	  s,	S		]	};
+    key <AC11> {	[     minus,	underscore	]	};
+
+    key <AB01> {	[ semicolon,	colon 		]	};
+    key <AB02> {	[	  q,	Q		]	};
+    key <AB03> {	[	  j,	J		]	};
+    key <AB04> {	[	  k,	K		]	};
+    key <AB05> {	[	  x,	X		]	};
+    key <AB06> {	[	  b,	B		]	};
+    key <AB07> {	[	  m,	M		]	};
+    key <AB08> {	[         w,	W		]	};
+    key <AB09> {	[         v,	V		]	};
+    key <AB10> {	[         z,	Z		]	};
+
+    key <BKSL> {	[   greater,    less		]	};
+};
