@@ -38,3 +38,5 @@ The dead keys are:
 All of the above should work with capital versions as well.
 
 Note that one downside of this dead key setup is the need to type a space whenever you type the English possesive clitic _='s_, as just typing <'s> directly outputs <ś>; the use of </> as a dead key also makes some coding more difficult. In a future revision I may move </> and some <'> dead keys to alt+/ and alt+', respectively.
+
+TEMP NOTE FOR X11 VERSION: Put the keyboard file into /xkb/symbols, then edit /xkb/rules/evdev.xml and /xkb/rules/xorg.lst following the guide at https://people.uleth.ca/~daniel.odonnell/Blog/custom-keyboard-in-linuxx11#e.
